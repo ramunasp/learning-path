@@ -36,8 +36,10 @@ Language reference:
 This list is not mandatory, like everything is. But to track the state of the team you could use table like this:
 
 
-| Who | Clean Code | Weird Parts | 70 Questions | Katas | TS Short | TS Long | TS Ref | React Hooks | React Guide |
-|---|---|---|---|---|---|---|---|---|---|
-| Mantas | - | - | - | - | - | - | - | Yes | - |
-| Ieva | - | - | - | - | - | - | - | - | - |
-| Paulius | Yes | - | - | - | - | - | - | - | - |
+| Who | Clean Code(r) | Pragmatic | Weird Parts | 70 Questions | Katas | TS Short | TS Long | TS Ref | React Hooks | React Guide |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Mantas | - | - | - | - | - | - | - | - | Yes | - |
+| Ieva | - | - | - | - | - | - | - | - | - | - |
+| Paulius | Yes | - | - | - | - | - | - | - | - | - |
+
+It is an initial list, and focused on specific requirements of specific projects, but feel free to improve it.
